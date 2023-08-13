@@ -35,6 +35,6 @@ async function copyKey() {
 
 keyValue.textContent = getCookie('key');
 
-if (document.referrer.indexOf('linkvertise.com') == -1) {
-    window.location.href = '/';
-}
+// if (document.referrer.indexOf('linkvertise.com') == -1) {
+//     window.location.href = '/';
+// }

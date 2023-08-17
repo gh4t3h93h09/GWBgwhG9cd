@@ -3,7 +3,7 @@
   "name": "lds_home",
   "version": "",
   "description": "",
-  "main": "app.mjs",
+  "main": "index.mjs",
   "engines": {
     "node": "18.x"
   },
